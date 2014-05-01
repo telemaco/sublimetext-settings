@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"CSSLint",
+		"Emmet",
+		"Handlebars",
+		"JSHint Gutter",
+		"Markdown Preview",
+		"Python Flake8 Lint",
+		"SideBarEnhancements"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeLinter/SublimeLinter3"
+	]
+}

@@ -1,0 +1,21 @@
+[
+	// Va a la siguiente pestaña
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+
+	// Va a la anterior pestaña
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	// Open the mardown preview in browser
+    { "keys": ["f10"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+
+    // Expande el cursor a varias lineas
+    { "keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },
+
+	// Oculta el navegador de ficheros
+	{ "keys": ["ctrl+escape"], "command": "toggle_side_bar" },
+
+	// Comenta las líneas seleccionadas
+	{ "keys": ["ctrl+¡"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+¡"], "command": "toggle_comment", "args": { "block": true } },
+]
