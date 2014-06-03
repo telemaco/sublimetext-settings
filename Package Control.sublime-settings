@@ -1,13 +1,16 @@
 {
 	"installed_packages":
 	[
-		"CSSLint",
 		"Emmet",
 		"Handlebars",
-		"JSHint Gutter",
+		"LESS",
 		"Markdown Preview",
-		"Python Flake8 Lint",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray"
 	],
 	"repositories":
 	[

@@ -2,17 +2,23 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
-	"flatui_folder_icons": true,
-	"font_size": 11,
+	"font_face": "Source Code Pro Medium",
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"margin": 0,
 	"match_selection": true,
 	"preview_on_click": false,
 	"rulers":
@@ -20,6 +26,6 @@
 		120
 	],
 	"shift_tab_unindent": true,
-	"theme": "FlatUI 3.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
