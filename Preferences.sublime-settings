@@ -5,6 +5,8 @@
 	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
 	"font_face": "Source Code Pro Medium",
 	"font_size": 13,
 	"highlight_line": true,
@@ -23,6 +25,7 @@
 	"preview_on_click": false,
 	"rulers":
 	[
+		100,
 		120
 	],
 	"shift_tab_unindent": true,
